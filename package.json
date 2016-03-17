@@ -8,8 +8,8 @@
   "private": true,
   "license": "MIT",
   "dependencies": {
-    "react": "^0.14.0",
     "react-dom": "^0.14.7"
+    "react": "^0.14.7",
   },
   "devDependencies": {
     "babel-core": "^6.5.1",
