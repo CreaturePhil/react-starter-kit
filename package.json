@@ -16,7 +16,7 @@
     "express": "^4.13.3",
     "react": "^15.0.1",
     "react-dom": "^15.0.1",
-    "webpack": "^1.9.11",
+    "webpack": "^1.13.0",
     "webpack-dev-middleware": "^1.2.0",
     "webpack-hot-middleware": "^2.9.1"
   }
