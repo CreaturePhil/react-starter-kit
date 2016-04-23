@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A skeleton of a react web application.",
   "scripts": {
-    "start": "node devServer.js"
+    "start": "node server.js"
   },
   "private": true,
   "license": "MIT",

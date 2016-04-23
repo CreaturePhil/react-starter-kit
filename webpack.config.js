@@ -1,6 +1,6 @@
 'use strict';
 
-const path = require('path');
+const join = require('path').join;
 const webpack = require('webpack');
 
 module.exports = {
@@ -10,7 +10,7 @@ module.exports = {
     './src/index'
   ],
   output: {
-    path: path.join(__dirname, 'dist'),
+    path: join(__dirname, 'dist'),
     filename: 'bundle.js',
     publicPath: '/static/'
   },
